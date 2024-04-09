@@ -1,0 +1,7 @@
+{
+    "name": "swl-cli",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ]
+}
